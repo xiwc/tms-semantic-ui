@@ -1,0 +1,14 @@
+{
+  "name": "tms-semantic-ui",
+  "version": "2.2.4",
+  "description": "This repository is automatically synced with the main [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) repository to provide lightweight CSS only version of Semantic UI.",
+  "main": "semantic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "semantic-ui"
+  ],
+  "author": "xiwc",
+  "license": "MIT"
+}
